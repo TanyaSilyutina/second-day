@@ -3,6 +3,10 @@
     padding: 5px;
 }
 
+.lesson {
+background-color: lightcyan;    
+}
+
 #myphoto {
     display: block; /* block value assigns each image to start on a new line */
     height: 250px;
@@ -18,4 +22,16 @@
 
 #mycontacts {
     font-weight: 600;
+}
+
+#email {
+    background-color: azure;
+}
+
+#github {
+background-color: aliceblue;
+}
+
+#portfolio {
+ background-color: whitesmoke;
 }
