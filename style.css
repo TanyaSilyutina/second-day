@@ -1,10 +1,21 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 5px;
 }
 
 #myphoto {
     display: block; /* block value assigns each image to start on a new line */
-    height: 150px;
+    height: 250px;
     width: auto;
+}
+
+#aboutme {
+    width:350px;
+    border-width:1px;
+    padding-left:3px;
+    word-wrap: break-word;
+}
+
+#mycontacts {
+    font-weight: 600;
 }
