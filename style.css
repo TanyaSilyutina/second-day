@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#myphoto {
+    display: block; /* block value assigns each image to start on a new line */
+    height: 150px;
+    width: auto;
+}
